@@ -1,0 +1,65 @@
+::-moz-selection { /* Code for Firefox */
+    background: #ff333a;
+}
+
+::selection {
+    background: #ff333a;
+}
+
+.post-preview>a:hover, .post-preview>a:focus {
+    color: #ff333a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'NanumSquare';
+}
+
+.intro-header .post-heading {
+    text-align: center;
+    background: #fff;
+    padding: 40px 0 30px 0;
+    margin-top: 80px;
+}
+
+hr {
+    border-color: #fff;
+}
+
+hr.small {
+    max-width: 22px;
+}
+
+.intro-header .post-heading hr.small {
+    border-color: #ff333a;
+}
+
+.post-heading h1, .post-heading h2 {
+    color: #212529;   
+}
+
+.post-heading .meta {
+    color: #91969c;
+}
+
+article > div.container > div.row > div {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer {
+    background: #f3f3f3;
+}
+
+footer .copyright {
+    text-align: left;
+    color: #91969c;
+}
+
+footer > .container > .row > div {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+hr.list {
+    border-top: 1px solid #e6e6e6;
+}
