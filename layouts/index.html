@@ -25,12 +25,6 @@
           {{ range first $posts (where .Data.Pages "Type" "post") }}
               {{ .Render "summary"}}
           {{ end }}
-          <!-- Pager -->
-          <ul class="pager">
-            <li class="next">
-              <a href="{{ .Site.BaseURL }}/post/">Older Posts &rarr;</a>
-            </li>
-          </ul>
         </div>
       </div>
     </div>

@@ -7,13 +7,13 @@
 @font-face {
  font-family: 'NanumSquare';
  font-weight: 700;
- src: local(NanumSquareR),
+ src: local(NanumSquareB),
       url(../fonts/NanumSquareBold.ttf) format('truetype');
 }
 @font-face {
  font-family: 'NanumSquare';
  font-weight: 800;
- src: local(NanumSquareR),
+ src: local(NanumSquareEB),
       url(../fonts/NanumSquareExtraBold.ttf) format('truetype');
 }
 @font-face {
