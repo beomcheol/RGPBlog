@@ -16,13 +16,35 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'NanumSquare';
 }
 
-.post-preview>a:hover, .post-preview>a:focus {
-    color: #ff333a;
-}
-
 p {
     line-height: 1.8;
 }
+
+
+/* home */
+/* .post-preview>a>.post-title { */
+/*     color: #212529; */
+/* } */
+
+/* .post-preview>a>.post-subtitle { */
+/*     color: #404346; */
+/* } */
+
+.post-preview>.post-meta {
+    font-style: normal;
+    color: #91969c;
+}
+
+/* .post-preview>a>.post-title:hover, .post-preview>a>.post-title:focus, */
+/* .post-preview>a>.post-subtitle:hover, .post-preview>a>.post-subtitle:focus { */
+/*     color: #ff333a; */
+/* } */
+
+.post-preview>a:hover, .post-preview>a:focus {
+    color: #ff333a !important;
+}
+
+/* contents */
 
 .intro-header {
     margin-bottom: 15px;
@@ -59,10 +81,6 @@ hr.small {
 
 .intro-header .post-heading hr.small {
     border-color: #ff333a;
-}
-
-.intro-header .post-heading h2 {
-  
 }
 
 .intro-header .post-heading h1 {
@@ -128,10 +146,6 @@ article > div.container > div.row > div {
      padding-left: 50px;
      padding-right: 50px;
  }
-
-.post-preview>.post-meta {
-    font-style: normal;
-}
 
 footer {
     background: #f3f3f3;

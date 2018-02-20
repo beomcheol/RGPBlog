@@ -1,4 +1,4 @@
 ---
 title: interview
-image: contact-bg.jpg
+image: interview-bg.jpg
 ---
