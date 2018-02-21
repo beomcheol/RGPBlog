@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beomcheol.github.io/RGPBlog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beomcheol.github.io/RGPBlog/</loc>
     <priority>0</priority>
   </url>
@@ -15,6 +10,14 @@
   <url>
     <loc>https://beomcheol.github.io/RGPBlog/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beomcheol.github.io/RGPBlog/interview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beomcheol.github.io/RGPBlog/posts/</loc>
   </url>
   
 </urlset>
