@@ -4,7 +4,7 @@ description: 개발 조직에서의 '리더십' 역량에 대한 저의 생각�
 author: Nari Kim
 images: []
 date: 2018-02-20T00:14:30+09:00
-draft: true
+draft: false
 type: "post"
 ---
 안녕하세요, RGP Korea에서 Scrum Master를 맡고 있는 김나리입니다. 올해 저희 기술연구소에서 Squad를 발족하면서, 일하는 방식과 조직에 있어 새로운 변화를 시도하고 있는데요, 이 글을 통해 지난 3년 간 Tech 조직의 성장에 대해 되돌아 보고자 합니다. 
