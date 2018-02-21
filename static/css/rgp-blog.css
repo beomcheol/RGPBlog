@@ -184,10 +184,6 @@ hr.small {
     margin-top: 35px;
 }
 
-.intro-header .post-heading hr.small {
-    border-color: #ff333a;
-}
-
 .intro-header .post-heading h1 {
     color: #fff;
     margin-top: 40px;
@@ -215,7 +211,11 @@ hr.small {
 
 
 @media only screen and (min-width: 768px) {
-
+    
+    .intro-header .post-heading hr.small {
+	border-color: #ff333a;
+    }
+    
     .intro-header .site-heading, .intro-header .page-heading {
 	padding-top: 150px;
     }
