@@ -262,12 +262,12 @@ hr.small {
 }
 
 
-
-
-article > div.container > div.row > div {
-     padding-left: 50px;
-     padding-right: 50px;
- }
+@media only screen and (min-width: 768px) {
+    article > div.container > div.row > div {
+	padding-left: 50px;
+	padding-right: 50px;
+    }
+}
 
 footer {
     background: #f3f3f3;
