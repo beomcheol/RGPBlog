@@ -169,6 +169,10 @@ a.navbar-brand>span {
     margin-top: 6px;
 }
 
+hr {
+    border-color: #fff;
+}
+
 hr.small {
     max-width: 30px;
 }
