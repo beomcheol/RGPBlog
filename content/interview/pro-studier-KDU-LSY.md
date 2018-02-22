@@ -5,7 +5,7 @@ description: "요기요 개발자 김동욱 & 임수용 편"
 author: 김나리
 image: interview-bg.jpg
 type: post
-draft: true
+draft: false
 ---
 
 ## About Pair Interview
