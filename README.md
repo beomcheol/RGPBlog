@@ -1,1 +1,1 @@
-# RGP Blog
+# RGP Korea Blog
