@@ -1,11 +1,13 @@
 canonifyurls = true
 paginate = 10
-baseURL = "https://beomcheol.github.io/RGPBlog"
+baseURL = "https://rgpkorea.github.io"
 languageCode = "ko-KR"
 title = "RGP Tech Blog"
 theme = "startbootstrap-clean-blog"
 publishdir = "dist"
 copyright = "Copyright © RGP Korea. All Rights Reserved."
+disqusShortname = "RGP Tech Blog"
+googleAnalytics = "UA-115391384-1"
 
 [Taxonomies]
     tag = "tags"
@@ -19,6 +21,11 @@ copyright = "Copyright © RGP Korea. All Rights Reserved."
     opengraph = true
     ImagePosts = "post-sample-image.jpg"
     ImageInterview = "contact-bg.jpg"
+    email = "tech@rgpkorea.co.kr"
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = true
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
