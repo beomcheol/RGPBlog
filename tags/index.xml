@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RGP Tech Blog</title>
-    <link>https://rgpkorea.github.io/tags/</link>
+    <link>https://beomcheol.github.io/RGPBlog/tags/</link>
     <description>Recent content in Tags on RGP Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <copyright>Copyright © RGP Korea. All Rights Reserved.</copyright>
     
-	<atom:link href="https://rgpkorea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beomcheol.github.io/RGPBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
